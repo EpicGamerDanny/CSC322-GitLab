@@ -4,7 +4,7 @@
 int main(void) {
 
     //FORGOT THIS STEP REDOING, SORRY!
-    printf("Hello Very Happy World!\n");
+    printf("Hello Crazy World!\n");
 
 
     return(EXIT_SUCCESS);
